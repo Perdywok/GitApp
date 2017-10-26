@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitApp
 {
-    class Program
+    class Point
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("test");
-        }
+        int x, y;
     }
 }
