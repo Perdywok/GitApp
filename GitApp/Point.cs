@@ -14,5 +14,6 @@ namespace GitApp
             x = X;
             y = Y;
         }
+        string firstbranch;
     }
 }
